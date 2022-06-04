@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/Pug.gltf-7660ed541237496068027fef053a7323.scn"
+path="res://.import/Pug.gltf-e1ada440ac4459dea460f35df4b691eb.scn"
 
 [deps]
 
-source_file="res://Pug.gltf"
-dest_files=[ "res://.import/Pug.gltf-7660ed541237496068027fef053a7323.scn" ]
+source_file="res://pug/Pug.gltf"
+dest_files=[ "res://.import/Pug.gltf-e1ada440ac4459dea460f35df4b691eb.scn" ]
 
 [params]
 
